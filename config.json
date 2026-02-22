@@ -1,3 +1,4 @@
 {
-  "apiUrl": "https://api2.crabby.app"
+  "apiUrl": "https://api2.crabby.app",
+  "electronUpdaterFeedUrl": "https://internal.crabby.app/files/updater"
 }
